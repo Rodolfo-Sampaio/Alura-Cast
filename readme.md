@@ -39,6 +39,6 @@ Veja nosso site adaptável em 🚩[AluraCast](https://alura-cast.vercel.app/) e 
 [Ana Beatriz Moura](https://github.com/beatrizmouradev)
 <br>
 <br>
-### 🎹 Bem-vindo ao 'Palco Code' inspirado por Alicia Keys. Cada linha de código é uma nota em nossa sinfonia digital. Se curtiu a melodia, dê um [`Follow`](https://github.com/Rodolfo-Sampaio) e vamos criar juntos essa composição única! 🎶💻 #CodeKeys"
+#### Obrigado por visitar meu Git. Se você der um [`Follow`](https://github.com/Rodolfo-Sampaio), ficarei feliz em retribuir!🚀💻
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ADD8E6&height=100&section=footer" alt="Waving Capsule Render">
